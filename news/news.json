@@ -1,3 +1,9 @@
 {
-  "test": "Hola"
+  [
+    {
+      "date": "April 11th, 2020",
+      "title": "First dynamic new!"
+      "text": "This is the first dynamic new implemented online from GitHub"
+    }
+  ]
 }
